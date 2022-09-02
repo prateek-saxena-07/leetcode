@@ -16,8 +16,8 @@ public:
                return;
            }
            
-           
+           char temp=s[index];
            revers(s,index+1,size);
-           s1.push_back(s[index]);
+           s1.push_back(temp);
        }
 };
