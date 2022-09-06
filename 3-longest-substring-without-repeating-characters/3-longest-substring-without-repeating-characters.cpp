@@ -8,7 +8,7 @@ public:
         
         for(int r=0;r<s.length();r++)
         {
-            while(a.find(s[r])!=a.end())
+            while(a.find(s[r])!=a.end())    //why if not ⚒ working
             {
                 a.erase(s[l]);
                 l++;
