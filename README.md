@@ -28,7 +28,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/prateek-saxena-07/leetcode/tree/master/0648-replace-words) |
+| [0961-long-pressed-name](https://github.com/prateek-saxena-07/leetcode/tree/master/0961-long-pressed-name) |
 # Trie
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/prateek-saxena-07/leetcode/tree/master/0648-replace-words) |
+# Two Pointers
+|  |
+| ------- |
+| [0961-long-pressed-name](https://github.com/prateek-saxena-07/leetcode/tree/master/0961-long-pressed-name) |
