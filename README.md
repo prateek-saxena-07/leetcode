@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0648-replace-words](https://github.com/prateek-saxena-07/leetcode/tree/master/0648-replace-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/prateek-saxena-07/leetcode/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/prateek-saxena-07/leetcode/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # Hash Table
 |  |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0876-hand-of-straights](https://github.com/prateek-saxena-07/leetcode/tree/master/0876-hand-of-straights) |
+| [1137-height-checker](https://github.com/prateek-saxena-07/leetcode/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 # String
 |  |
@@ -51,3 +53,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/prateek-saxena-07/leetcode/tree/master/1137-height-checker) |
