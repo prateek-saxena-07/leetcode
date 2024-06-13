@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/prateek-saxena-07/leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/prateek-saxena-07/leetcode/tree/master/1137-height-checker) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2102-find-the-middle-index-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
 # Hash Table
 |  |
 | ------- |
@@ -60,3 +61,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/prateek-saxena-07/leetcode/tree/master/1137-height-checker) |
+# Prefix Sum
+|  |
+| ------- |
+| [2102-find-the-middle-index-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
