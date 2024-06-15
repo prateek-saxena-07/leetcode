@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/prateek-saxena-07/leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
 | [0648-replace-words](https://github.com/prateek-saxena-07/leetcode/tree/master/0648-replace-words) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -65,3 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2102-find-the-middle-index-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/2102-find-the-middle-index-in-array) |
+# Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/prateek-saxena-07/leetcode/tree/master/0066-plus-one) |
