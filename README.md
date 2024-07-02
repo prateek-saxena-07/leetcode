@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1293-three-consecutive-odds](https://github.com/prateek-saxena-07/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
 |  |
 | ------- |
