@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/prateek-saxena-07/leetcode/tree/master/1293-three-consecutive-odds) |
 ## Hash Table
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -117,9 +120,14 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
