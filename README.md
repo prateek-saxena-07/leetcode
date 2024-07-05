@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Stack
 |  |
 | ------- |
