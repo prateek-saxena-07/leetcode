@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Monotonic Stack
 |  |
