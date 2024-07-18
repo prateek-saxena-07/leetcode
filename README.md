@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/prateek-saxena-07/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -167,4 +169,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prateek-saxena-07/leetcode/tree/master/0238-product-of-array-except-self) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
