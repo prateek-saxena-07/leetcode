@@ -4,15 +4,36 @@
  * @return {number}
  */
 var countKDifference = function(nums, k) {
-    var count =0;
-    for(let i=0;i<nums.length;i++)
+const hash={};
+let count =0;
+
+for(let n of nums)
+{
+    if(hash[n])
     {
-        for(let j=i+1;j<nums.length;j++)
-        {
-            if(Math.abs(nums[i]-nums[j])===k)
-                count++;
-        }
+        count+=hash[n];
+    }
+    if(hash[n-k])
+    {
+        hash[n-k]+=1;
+
+    }
+    else
+    {
+        hash[n-k]=1
+
+    }
+    if(hash[n+k])
+    {
+        hash[n+k]+=1;
+
+    }
+    else
+    {
+        hash[n+k]=1;
     }
 
-    return count;
+}
+
+return count;
 };
