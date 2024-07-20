@@ -4,20 +4,15 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    const pairIdx={};   //dictionary
+   let hash={}
 
-    for(let i=0; i<nums.length;i++)
+   for(let i=0;i<nums.length;i++)
+   {
+    if(target-nums[i] in hash)
     {
-        const num=nums[i];
-        if(target - num in pairIdx)
-               { 
-                return[pairIdx[target-num],i];
-               }
-
-                pairIdx[num]=i;
+        return[hash[target-nums[i]],i]
     }
-
-   
-
+    hash[nums[i]]=i
+   }
 
 };
