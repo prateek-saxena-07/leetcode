@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/prateek-saxena-07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -184,4 +186,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/prateek-saxena-07/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
