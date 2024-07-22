@@ -4,13 +4,13 @@
  */
 var maxChunksToSorted = function(arr) {
     let pipe=0;
-    let max=arr[0];
-    if(max==0)
-    {
-        pipe++;
-    }
+    let max= -Infinity;
+    // if(arr[0]==0)
+    // {
+    //     pipe++;
+    // }
 
-    for(let i=1;i<arr.length;i++)
+    for(let i=0;i<arr.length;i++)
         {
             if(arr[i]>max)
                 max=arr[i];
