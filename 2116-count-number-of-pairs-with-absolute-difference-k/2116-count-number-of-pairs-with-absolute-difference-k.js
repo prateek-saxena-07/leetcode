@@ -15,7 +15,7 @@ for(let n of nums)
     }
     if(hash[n-k])
     {
-        hash[n-k]+=1;
+        hash[n-k]++;
 
     }
     else
@@ -25,7 +25,7 @@ for(let n of nums)
     }
     if(hash[n+k])
     {
-        hash[n+k]+=1;
+        hash[n+k]++;
 
     }
     else
