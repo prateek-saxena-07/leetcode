@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/prateek-saxena-07/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1293-three-consecutive-odds](https://github.com/prateek-saxena-07/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/prateek-saxena-07/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prateek-saxena-07/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Recursion
 |  |
@@ -154,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
+| [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Queue
 |  |
 | ------- |
@@ -190,4 +194,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
