@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/prateek-saxena-07/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/prateek-saxena-07/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
