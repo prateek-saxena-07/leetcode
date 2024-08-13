@@ -10,23 +10,25 @@ function swap(arr,i,j)
 }
 var sortColors = function(nums) {
     
-    let i=0;
-    let j=0;
-    let k=nums.length-1;
+    let low=0;
+    let mid=0;
+    let high=nums.length-1;
+while(mid<=high)
+        {
+            if(nums[mid]==0)
+            {
+                swap(nums,low,mid)
+                low++
+                mid++    
+                       }
+            else if(nums[mid]==1)
+            {
+                mid++
+            }
 
-    while(i<=k)
-    {
-        if(nums[i]==0)
-        {swap(nums,i,j);
-        i++;
-        j++;}
-        else if(nums[i]==1)
-        {i++;
+            else
+            {swap(nums,mid,high)
+               high--
+            }
         }
-
-        else
-        {swap(nums,i,k);
-        k--;
-        }
-    }
 };
