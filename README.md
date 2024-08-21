@@ -219,4 +219,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prateek-saxena-07/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
