@@ -223,4 +223,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/prateek-saxena-07/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
