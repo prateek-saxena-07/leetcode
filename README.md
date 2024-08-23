@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1496-lucky-numbers-in-a-matrix](https://github.com/prateek-saxena-07/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prateek-saxena-07/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2048-build-array-from-permutation](https://github.com/prateek-saxena-07/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Hash Table
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2048-build-array-from-permutation](https://github.com/prateek-saxena-07/leetcode/tree/master/2048-build-array-from-permutation) |
 ## Tree
 |  |
 | ------- |
