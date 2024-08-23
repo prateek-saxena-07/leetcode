@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [1205-defanging-an-ip-address](https://github.com/prateek-saxena-07/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
