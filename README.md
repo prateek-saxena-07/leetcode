@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2048-build-array-from-permutation](https://github.com/prateek-saxena-07/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
 | ------- |
