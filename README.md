@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
+| [1610-xor-operation-in-an-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/prateek-saxena-07/leetcode/tree/master/0476-number-complement) |
+| [1610-xor-operation-in-an-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1610-xor-operation-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
