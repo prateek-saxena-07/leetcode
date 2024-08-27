@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
 | [1610-xor-operation-in-an-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2571-find-the-pivot-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Dynamic Programming
 |  |
@@ -211,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prateek-saxena-07/leetcode/tree/master/0238-product-of-array-except-self) |
+| [2571-find-the-pivot-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/2571-find-the-pivot-integer) |
 ## Counting
 |  |
 | ------- |
