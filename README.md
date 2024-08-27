@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
+| [0319-bulb-switcher](https://github.com/prateek-saxena-07/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
 | [1610-xor-operation-in-an-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2571-find-the-pivot-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/2571-find-the-pivot-integer) |
@@ -250,4 +251,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3226-minimum-number-game](https://github.com/prateek-saxena-07/leetcode/tree/master/3226-minimum-number-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/prateek-saxena-07/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
