@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1205-defanging-an-ip-address](https://github.com/prateek-saxena-07/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
 ## Bit Manipulation
 |  |
