@@ -110,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3412-permutation-difference-between-two-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prateek-saxena-07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
 |  |
 | ------- |
