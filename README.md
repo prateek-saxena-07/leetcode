@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/prateek-saxena-07/leetcode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/prateek-saxena-07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -150,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2571-find-the-pivot-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prateek-saxena-07/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/prateek-saxena-07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
