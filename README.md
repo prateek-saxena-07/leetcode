@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/prateek-saxena-07/leetcode/tree/master/3226-minimum-number-game) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prateek-saxena-07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -112,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
 | ------- |
