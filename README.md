@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/prateek-saxena-07/leetcode/tree/master/0890-lemonade-change) |
 | [1293-three-consecutive-odds](https://github.com/prateek-saxena-07/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prateek-saxena-07/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/prateek-saxena-07/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prateek-saxena-07/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/prateek-saxena-07/leetcode/tree/master/0496-next-greater-element-i) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prateek-saxena-07/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prateek-saxena-07/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3226-minimum-number-game](https://github.com/prateek-saxena-07/leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prateek-saxena-07/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Matrix
 |  |
