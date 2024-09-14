@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/prateek-saxena-07/leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/prateek-saxena-07/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
