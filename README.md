@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prateek-saxena-07/leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/prateek-saxena-07/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/prateek-saxena-07/leetcode/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/prateek-saxena-07/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/prateek-saxena-07/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/prateek-saxena-07/leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/prateek-saxena-07/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
@@ -257,6 +259,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/prateek-saxena-07/leetcode/tree/master/0048-rotate-image) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/prateek-saxena-07/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/prateek-saxena-07/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
