@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prateek-saxena-07/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prateek-saxena-07/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/prateek-saxena-07/leetcode/tree/master/0319-bulb-switcher) |
+| [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Number Theory
 |  |
 | ------- |
