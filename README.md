@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/prateek-saxena-07/leetcode/tree/master/0890-lemonade-change) |
+| [0909-stone-game](https://github.com/prateek-saxena-07/leetcode/tree/master/0909-stone-game) |
 | [1293-three-consecutive-odds](https://github.com/prateek-saxena-07/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prateek-saxena-07/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/prateek-saxena-07/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0319-bulb-switcher](https://github.com/prateek-saxena-07/leetcode/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/prateek-saxena-07/leetcode/tree/master/0441-arranging-coins) |
+| [0909-stone-game](https://github.com/prateek-saxena-07/leetcode/tree/master/0909-stone-game) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/prateek-saxena-07/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/prateek-saxena-07/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/prateek-saxena-07/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0909-stone-game](https://github.com/prateek-saxena-07/leetcode/tree/master/0909-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -309,4 +312,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/prateek-saxena-07/leetcode/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
