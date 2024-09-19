@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prateek-saxena-07/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/prateek-saxena-07/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2048-build-array-from-permutation](https://github.com/prateek-saxena-07/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/prateek-saxena-07/leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prateek-saxena-07/leetcode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/prateek-saxena-07/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [3226-minimum-number-game](https://github.com/prateek-saxena-07/leetcode/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -279,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0624-maximum-distance-in-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/prateek-saxena-07/leetcode/tree/master/0890-lemonade-change) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Breadth-First Search
 |  |
 | ------- |
