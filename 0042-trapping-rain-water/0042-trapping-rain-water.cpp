@@ -1,42 +1,18 @@
-/**
- * @param {number[]} height
- * @return {number}
- */
-var trap = function(height) {
-    let stack = new Stack()
-    let i = 0
-    let ret = 0
-    while(i < height.length) {
-        if (stack.isEmpty() || height[i] <= height[stack.peek()]) {
-            stack.push(i++)
-        } else {
-            let middle = stack.pop()
-            if (!stack.isEmpty()) {
-                let minHeight = Math.min(height[i], height[stack.peek()])
-                ret += (minHeight - height[middle]) * (i - stack.peek() - 1)
-            }
+class Solution { // 4 ms, faster than 89.31%
+public:
+    int trap(vector<int>& height) {
+        int n = height.size();
+        vector<int> leftMax(n), rightMax(n);
+        for (int i = 1; i < n; ++i) 
+            leftMax[i] = max(height[i-1], leftMax[i-1]);
+        for (int i = n-2; i >= 0; --i) 
+            rightMax[i] = max(height[i+1], rightMax[i+1]);
+        
+        int ans = 0;
+        for (int i = 0; i < n; ++i) {
+            int waterLevel = min(leftMax[i], rightMax[i]);
+            if (waterLevel >= height[i]) ans += waterLevel - height[i];
         }
+        return ans;
     }
-    return ret
 };
-
-class Stack {
-    constructor() {
-        this.stack = []
-    }
-    push(a) {
-        this.stack.push(a)
-    }
-    pop() {
-        return this.stack.pop()
-    }
-    peek() {
-        return this.stack[this.stack.length - 1]
-    }
-    size() {
-        return this.stack.length
-    }
-    isEmpty() {
-        return this.stack.length == 0
-    }
-}
