@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/prateek-saxena-07/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/prateek-saxena-07/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -256,12 +257,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/prateek-saxena-07/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/prateek-saxena-07/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prateek-saxena-07/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1450-delete-leaves-with-a-given-value](https://github.com/prateek-saxena-07/leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 ## Prefix Sum
 |  |
 | ------- |
