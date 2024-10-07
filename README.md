@@ -218,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/prateek-saxena-07/leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/prateek-saxena-07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2132-convert-1d-array-into-2d-array](https://github.com/prateek-saxena-07/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prateek-saxena-07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/prateek-saxena-07/leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/prateek-saxena-07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3226-minimum-number-game](https://github.com/prateek-saxena-07/leetcode/tree/master/3226-minimum-number-game) |
 ## Tree
 |  |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prateek-saxena-07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prateek-saxena-07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/prateek-saxena-07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
