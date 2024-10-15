@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [3195-separate-black-and-white-balls](https://github.com/prateek-saxena-07/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/prateek-saxena-07/leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/prateek-saxena-07/leetcode/tree/master/0917-boats-to-save-people) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [3195-separate-black-and-white-balls](https://github.com/prateek-saxena-07/leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prateek-saxena-07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prateek-saxena-07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/prateek-saxena-07/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Bit Manipulation
