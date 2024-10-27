@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prateek-saxena-07/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/prateek-saxena-07/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/prateek-saxena-07/leetcode/tree/master/0020-valid-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/prateek-saxena-07/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prateek-saxena-07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
