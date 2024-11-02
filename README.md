@@ -332,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prateek-saxena-07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/prateek-saxena-07/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2580-circular-sentence](https://github.com/prateek-saxena-07/leetcode/tree/master/2580-circular-sentence) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/prateek-saxena-07/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/prateek-saxena-07/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/prateek-saxena-07/leetcode/tree/master/3379-score-of-a-string) |
