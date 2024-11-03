@@ -327,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/prateek-saxena-07/leetcode/tree/master/0020-valid-parentheses) |
+| [0812-rotate-string](https://github.com/prateek-saxena-07/leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/prateek-saxena-07/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prateek-saxena-07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -365,4 +366,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/prateek-saxena-07/leetcode/tree/master/0225-implement-stack-using-queues) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/prateek-saxena-07/leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
