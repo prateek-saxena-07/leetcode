@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/prateek-saxena-07/leetcode/tree/master/0027-remove-element) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/prateek-saxena-07/leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/prateek-saxena-07/leetcode/tree/master/0027-remove-element) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/prateek-saxena-07/leetcode/tree/master/0011-container-with-most-water) |
 | [0624-maximum-distance-in-arrays](https://github.com/prateek-saxena-07/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/prateek-saxena-07/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/prateek-saxena-07/leetcode/tree/master/0890-lemonade-change) |
