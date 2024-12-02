@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0350-intersection-of-two-arrays-ii](https://github.com/prateek-saxena-07/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0917-boats-to-save-people](https://github.com/prateek-saxena-07/leetcode/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/prateek-saxena-07/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prateek-saxena-07/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/prateek-saxena-07/leetcode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -339,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/prateek-saxena-07/leetcode/tree/master/0020-valid-parentheses) |
 | [0812-rotate-string](https://github.com/prateek-saxena-07/leetcode/tree/master/0812-rotate-string) |
 | [1205-defanging-an-ip-address](https://github.com/prateek-saxena-07/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prateek-saxena-07/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/prateek-saxena-07/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/prateek-saxena-07/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/prateek-saxena-07/leetcode/tree/master/2128-reverse-prefix-of-word) |
@@ -380,4 +382,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/prateek-saxena-07/leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prateek-saxena-07/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
