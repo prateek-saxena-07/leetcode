@@ -199,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2481-strictly-palindromic-number](https://github.com/prateek-saxena-07/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2571-find-the-pivot-integer](https://github.com/prateek-saxena-07/leetcode/tree/master/2571-find-the-pivot-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/prateek-saxena-07/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2998-count-symmetric-integers](https://github.com/prateek-saxena-07/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/prateek-saxena-07/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/prateek-saxena-07/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/prateek-saxena-07/leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -390,4 +391,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0812-rotate-string](https://github.com/prateek-saxena-07/leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/prateek-saxena-07/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/prateek-saxena-07/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
